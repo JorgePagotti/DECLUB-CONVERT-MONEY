@@ -13,6 +13,8 @@
 <br>
 - <img align="left" src="[https://www.canva.com/design/DAGX6z6diJE/k70Cpi8zbgGnn1kw_4xXfQ/edit?utm_content=DAGX6z6diJE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://github.com/user-attachments/assets/907ee3c3-f756-4e4f-b815-e06519786e2c
 )"
-
+<br>
 <h6>Segue abaixo versão Desktop e Mobile</h6>
 <br>
+- <video align=center src="https://github.com/user-attachments/assets/ee2aee33-8788-443d-a71b-92c1b7bab015
+">
