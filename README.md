@@ -11,7 +11,8 @@
 <br>
 - <img align="left" src="https://camo.githubusercontent.com/9bbd4c2b5f7cda139d91d34caa14392df56353ca55e19b58184610aa8b123854/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" alt="javascript-logo" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width: 100%;">
 <br>
-- <img align="left" src="https://www.canva.com/design/DAGX6z6diJE/k70Cpi8zbgGnn1kw_4xXfQ/edit?utm_content=DAGX6z6diJE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+- <img align="left" src="[https://www.canva.com/design/DAGX6z6diJE/k70Cpi8zbgGnn1kw_4xXfQ/edit?utm_content=DAGX6z6diJE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://github.com/user-attachments/assets/907ee3c3-f756-4e4f-b815-e06519786e2c
+)"
 
 <h6>Segue abaixo versão Desktop e Mobile</h6>
 <br>
